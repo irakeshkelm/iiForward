@@ -1,0 +1,40 @@
+﻿Planet Reserve bank
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+Reserve bank
+[
+Individual accounts
+]
+
+
+Market interventions
+[
+if, required
+Pre-declared date
+Pre-declared time
+nano seconds or higher precision
+everyone has equal opportunity to take a long or short position
+all positons (seller, buyer) published and open to everyone, in real time
+]
+
+
+Float, derivatives
+[
+Running totals (aka float), to date, permitted on market, only (nada swaps)
+Replacement totals (aka float), to date, permitted on market, only (nada swaps)
+New issues (aka derivatives), permitted on market, only
+Replacement issues (aka derivatives), permitted on market, only
+Pre-declared date
+Pre-declared time
+nano seconds or higher precision
+everyone has equal opportunity to take a long or short position
+all positons (seller, buyer) published and open to everyone, in real time
+]

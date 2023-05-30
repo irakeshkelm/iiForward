@@ -1,0 +1,125 @@
+﻿Tertiary Worklist - Communists, Socialists
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+052723 sat
+[
+City - One way, day and night
+(aka high safety margins)
+Highway - multiple lanes, Night
+(aka high safety margins)
+]
+
+
+042923
+[
+Load chromiumOS on smart device
+]
+
+
+042423
+[
+Mount Linux file system on chromeOS and chromiumOS
+]
+
+
+041723
+[
+network, scale git
+p2p, πgitrealnet
+scm
+p2p, email π@gitrealnet
+sem
+p2p, notes πηgitrealnet
+snm
+p2p, media πωgitrealnet
+smm
+p2p, comm πςgitrealnet
+scm
+
+
+scm = source core management
+sem = source email management
+snm = source notes management
+smm = source media management
+scm = source comm management
+
+
+network, elements
+p2p, git
+scm = source code management
+]
+
+
+031823
+Auto provisioning of VPN and encryption to
+private network
+a) home lan peers (over wifi and cable)
+b) home wan peers (over wifi and cable)
+
+
+031723
+Auto provisioning of VPN and encryption to
+public network
+a) incoming home lan connections via bridge (over wifi and cable)
+b) outgoing home wan connections via router (over wifi and cable)
+
+
+031623
+VPN (virtual private network) connections for all websites and web services provided by the respective site and service.
+
+
+031123
+Kids shopping areas in stores
+
+
+022723
+Smart locks with smart private keys (image, audio, video, instant message, file...) and connected to house grid, in retail channels.
+
+
+022423
+Left rear scap pocket and left chest pocket on jackets for phones
+
+
+022123
+Make data publicly available, maps - satellite, street....at very high precision
+
+
+022023
+Open p2p software and web clients for publicly available government data (title, deed, registration, passport, drivers license...) and services (issuances...)
+
+
+021923
+Family, couple, adult, teenager and kid sizes and prices in ice creams and everything in big box stores
+Practice independence
+Family = Breast Feeding
+Dollar, three, five dollar stores only for practicing manners
+Government companies, if private companies are not interested in serving government clients (most commonly telecom companies)
+
+
+021523
+Open Web clients for cloud email services like gmail, (hotmail 0 years),... and other web services like maps, photos, drive, amazon, (best buy 0 years)... after 20 years of product launch
+
+
+021223
+Add wifi auto roaming
+
+
+020623
+Add printing or saving in open file formats to ChromeOS and linux
+
+
+020423
+Opera custom names "quick access"
+
+
+Advertisements only stream
+Trailers only sttream
+Period 1600s, 1700s, 1800s reading only
