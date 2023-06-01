@@ -3,10 +3,10 @@ Forward improvement - Planet, Independent interest(Suc-king)
 
 https://forward.planet.ii
 
-Build and Operationalize a Planet. Expand and Update Independent Interest.
+Check out, Individual.txt (Actively updated)
 
-check out, Individual.txt (Actively updated)
+Build and Operationalize a Planet. Expand and Update Independent Interest
 
-Multiple files (Actively updated)
+Check out, other files in this folder (Actively updated).
 
-Check out, above files in this folder.
+
