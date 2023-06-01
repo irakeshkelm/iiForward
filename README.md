@@ -1,5 +1,5 @@
 # forward
-Notes from accounts - Independent interest and Militia, Earth Backup (Suc-king)
+Forward improvement - Planet, Independent interest(Suc-king)
 
 https://forward.planet.ii
 
