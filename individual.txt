@@ -4,6 +4,7 @@
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
@@ -17,6 +18,14 @@ Actions - Look and Act
 Movement - Look and Move
 =
 Improvement
+]
+
+
+p2p
+[
+identity, open identity (nada centralized id)
+elections, open voting (nada secret ballot)
+p2p = peer to peer
 ]
 
 

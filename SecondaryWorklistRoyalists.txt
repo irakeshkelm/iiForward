@@ -1,6 +1,4 @@
-﻿Food
-
-
+﻿Secondary Worklist - Royalists
 
 
 Independent interest and Militia
@@ -10,10 +8,7 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
-Animal ranch
-Dairy farm
-Grain farm
-Maple tree apple farm orchard
-
-
-Supplies
+Always
+[
+Sit idle
+]

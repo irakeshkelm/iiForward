@@ -6,7 +6,13 @@
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
+
+
+061623
+-Personalize (open) language in software interface (give ability to choose different flavors - great American - high, low, street, literary... English, great Britain...).
+- comm software - Open conversations with visa (companies, ...) and other participants are in listen/watch only mode, unless I allow them to speak/write - from my side. They (visa) can do the same (employees only) on their side. Current conversation and current chat at the top.
 
 
 052723 sat

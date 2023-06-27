@@ -1,4 +1,4 @@
-﻿Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's)
+﻿Planetarians game (Ii game, new game, Proper White, peer to peer, citizen's) aka Independent interest
 
 
 
@@ -6,6 +6,7 @@
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
@@ -14,6 +15,7 @@ Suc-king
 
 Build and operationalize a planet
 [
+Owners
 Expand Independent Interest
 Update Independent Interest
 ]
@@ -24,6 +26,12 @@ Expand Independent Interest
 Build an Ii game (Focus on planets, solar system, galaxy)
 Take as many people as possible from earth to the newly built Ii game
 Build new name and expand culture
+p2p
+[
+identity, open identity (nada centralized id)
+elections, open voting (nada secret ballot)
+p2p = peer to peer
+]
 Planet name
 Planet flag
 New name for Federal Reserve
@@ -41,6 +49,10 @@ Operational mantra - I am American
  and What was your "Deed"?
  Elon
  Prince (Erik, Alwaleed)
+
+
+
+
 ]
 
 
