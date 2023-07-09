@@ -1,0 +1,20 @@
+﻿Planet, Land and Building
+
+
+Land
+[
+size, at the minimum building size, for humans
+plus, at the minimum, 10x building size, for animals
+plus, close to river, hills
+plus, on site micro-nuclear power/energy plant
+plus, on site mobile transport
+plus, on site mobile internet
+]
+
+
+Building
+[
+Five areas, around building on all four sides (six sides; plus top-air, plus bottom-underground)
+porch/deck/tile area, grass area, shrubs area, berries area, trees-apple/maple area
+Area sizes, are at the minimum, the length (or height) of the longest side of the building
+]
