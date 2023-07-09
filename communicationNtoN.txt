@@ -7,20 +7,22 @@ p2p aka n to n, many to many
 ]
 
 
-Written
+Text
 [
 message
 email
 letter
+other
 ]
 
 
-Voice
+Sound and Image
 [
 audio
 video
 conference
 meeting
+other
 ]
 
 
