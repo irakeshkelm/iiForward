@@ -1,0 +1,37 @@
+﻿Communication
+
+
+Structure
+[
+p2p aka n to n, many to many
+]
+
+
+Written
+[
+message
+email
+letter
+]
+
+
+Voice
+[
+audio
+video
+conference
+meeting
+]
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
