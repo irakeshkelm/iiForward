@@ -16,7 +16,7 @@ other
 ]
 
 
-Sound and Image
+Sound, Image, video
 [
 audio
 video
