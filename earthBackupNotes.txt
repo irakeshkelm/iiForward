@@ -21,12 +21,12 @@ You pick the Law (Land), Process (President, referendum and legislative) and you
 
 Embassies
 Shoot for two corridor's
-Chinese (North Korea)
-Russian (Kaliningrad)
-Saudi (Kabul)
-Australian (Northern Canada - Hudson Bay)
-Swiss (Northern Scan - Hudson)
 Israeli (Engineering - Technology)
+Swiss (Northern Scan - Hudson)
+Australian (Northern Canada - Hudson Bay)
+Saudi (Kabul)
+Russian (Kaliningrad)
+Chinese (North Korea)
 
 
 Law
@@ -188,6 +188,85 @@ Wind law and wind process
 with culture
 without culture
 ]
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+Sports in residence and Olympics in residence
+
+
+Sports in residence and Olympics In residence
+[
+Sitting position
+using upper body
+
+
+Back country in residence
+Cross country in residence
+]
+
+
+
+
+
+
+
+
+Independent interest and Militia
+git : aka fool
+p2p : git rakeshkelm
+web : github.usa.saudiroyalist/irakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm
+
+
+Conservative (aka elephant) software corporations
+
+
+Pecking order
+[
+New and prime
+Face-book
+Z-y-n-ga
+Alphabet x-y-z
+
+
+Old and prime
+Oracle
+]
+
+
+Short position on
+[
+Facebook
+Oracle
+]
+
+
+Conservative ride (aka elephant ride)
+
+
+Conservative ride (aka elephant ride) is real New England
+[
+Medicine
+Sports
+Food
+Education
+]
+try
+[
+Planetarian in residence ride (aka girls y'all)
+]
+
+
+
+
 
 
 
@@ -423,17 +502,17 @@ Southern European
 [
 prime
 {
+Austrians
 Germans
 Italians
 Greek
 Spanish
+Dutch
 French
 Trailer
 }
 sub-prime
 {
-Austrians
-Dutch
 Belgians
 Czechoslovaks
 Trailer
