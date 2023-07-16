@@ -1,0 +1,23 @@
+﻿Shame vs Shameless
+
+
+if, you follow the lead
+[
+you have shame
+]
+if, you don't
+[
+you are shameless
+]
+
+
+try
+[
+being humble
+]
+else
+[
+be the lead
+and
+maintain the lead
+]

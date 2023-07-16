@@ -1,0 +1,26 @@
+﻿Currencies
+
+
+grow position
+[
+on currencies holding proper territories (aka forward rights)
+Planetarian planet
+]
+
+
+long position
+[
+on currencies holding manageable territories (aka frozen rights)
+Swiss francs
+Scan krone
+]
+
+
+Short position
+[
+on currencies holding large territories (aka shorting rights)
+Euro
+Rouble
+Yuan
+US dollar
+]
