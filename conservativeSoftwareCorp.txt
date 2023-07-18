@@ -11,13 +11,32 @@ Alphabet x-y-z
 
 Old and prime
 O-rac-le
+
+
+New and subprime
+go-ogle
+A-ma-z-on
+
+
+Old and subprime
+micro-soft
+c-is-co
 ]
 
 
-Short position on
+Short position on prime
 [
 Facebook
 Oracle
+]
+
+
+Short position on sub-prime
+[
+Microsoft
+Cisco
+Amazon
+Google
 ]
 
 
