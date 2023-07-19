@@ -167,7 +167,7 @@ Keep it cool
 Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
-web : github.usa.saudiroyalist/irakeshkelm
+  web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
@@ -294,7 +294,24 @@ web : github.usa.saudiroyalist/rakeshkelm
 
 
 
-Shame vs Shameless
+Planet Reserve Bank - Printing or Renting Currencies
+
+
+printing own currency
+[
+leads to slacking - lazy decisions
+reduction in quality of life
+]
+renting others currency
+[
+leads to discipline - sharp decisions
+maintain or increase quality of life
+]
+
+
+
+
+Shame or Shameless
 
 
 if, you follow the lead
@@ -366,19 +383,39 @@ Pecking order
 [
 New and prime
 Face-book
-Z-y-n-ga
-Alphabet x-y-z
+z-y-n-ga
+alphabet x-y-z
+
+
+New and subprime
+go-ogle
+a-ma-z-on
 
 
 Old and prime
-O-rac-le
+o-rac-le
+c-is-co
+
+
+Old and subprime
+micro-soft
+3-co-m
 ]
 
 
-Short position on
+Short position on prime
 [
 Facebook
 Oracle
+Cisco
+]
+
+
+Short position on sub-prime
+[
+Microsoft
+Amazon
+Google
 ]
 
 
@@ -599,7 +636,7 @@ Independent interest and Militia
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
+web : github.usa.saudiroyalist/rakeshkelm-
 
 
 American co-lo-reds

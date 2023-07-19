@@ -5,22 +5,23 @@ Pecking order
 [
 New and prime
 Face-book
-Z-y-n-ga
-Alphabet x-y-z
-
-
-Old and prime
-O-rac-le
+z-y-n-ga
+alphabet x-y-z
 
 
 New and subprime
 go-ogle
-A-ma-z-on
+a-ma-z-on
+
+
+Old and prime
+o-rac-le
+c-is-co
 
 
 Old and subprime
 micro-soft
-c-is-co
+3-co-m
 ]
 
 
@@ -28,13 +29,13 @@ Short position on prime
 [
 Facebook
 Oracle
+Cisco
 ]
 
 
 Short position on sub-prime
 [
 Microsoft
-Cisco
 Amazon
 Google
 ]
