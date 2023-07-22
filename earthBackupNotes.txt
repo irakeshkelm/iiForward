@@ -360,13 +360,16 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
-Pecking order genetics
+Pecking order - Genetics
 
 
+Run her with a clear position
+[
 Israeli(s)
 Trump Jr(s)
 Tagg(s)
 other(s)
+]
 
 
 
