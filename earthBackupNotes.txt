@@ -385,6 +385,30 @@ web : github.usa.saudiroyalist/irakeshkelm
 web : github.usa.saudiroyalist/rakeshkelm
 
 
+Artists and sporties Pecking order
+
+
+Sitting position and presence in church
+[
+Artists
+{
+Meghan Trainor
+Madison Beer
+Princess Cary
+other(s)
+}
+
+
+s-por-ties
+{
+Rakesh Kukatla
+?
+}
+]
+
+
+
+
 Public health - Exurban - New York
 
 
@@ -1299,7 +1323,7 @@ Keep re-recording in
 [
 Brazilian Portuguese
 Argentinian Spanish
-Paraguayan Portuguese and Spanish
+Paraguayan Spanish and Portuguese
 Uruguayan Spanish and Portuguese
 Chilean Spanish
 ]
