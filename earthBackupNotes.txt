@@ -372,6 +372,13 @@ other(s)
 ]
 
 
+Five eyes (aka whose eyes)
+[
+Guess, where the arm is?
+United kingdom.
+]
+
+
 
 
 
@@ -392,6 +399,7 @@ Sitting position and presence in church
 [
 Artists
 {
+?
 Meghan Trainor
 Madison Beer
 Princess Cary
@@ -425,12 +433,14 @@ First District
 
 Mindy
 Shelley
-chapman
+Chapman
 
 
 
 
 Matt
+George
+John
 
 
 
