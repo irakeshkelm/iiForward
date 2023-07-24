@@ -58,8 +58,11 @@ You pick the Law (Land), Process (President, referendum and legislative) and you
 Embassies
 Shoot for two corridor's
 Israeli (Engineering - Technology)
+Argentina (Irish - Engineering - Technology)
+French (Italian - Engineering - Technology)
 Swiss (Northern Scan - Hudson)
 Australian (Northern Canada - Hudson Bay)
+Canada (Spain - New Spain)
 Saudi (Kabul)
 Russian (Kaliningrad)
 Chinese (North Korea)
@@ -461,6 +464,7 @@ Chapman
 Matt
 George
 John
+Chris
 
 
 
@@ -1352,9 +1356,9 @@ Finnish
 Keep re-recording in
 [
 Brazilian Portuguese
-Argentinian Spanish
 Paraguayan Spanish and Portuguese
 Uruguayan Spanish and Portuguese
+Argentinian Spanish
 Chilean Spanish
 ]
 
