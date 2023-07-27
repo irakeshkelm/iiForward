@@ -362,7 +362,7 @@ web : github.usa.saudiroyalist/rakeshkelm
 Pecking order - Girls
 
 
-girls - Naturalized, Born (aka Rakesh Kukatla, aka Rick Kukatla)
+girls - Naturalized, Born (aka Rakesh Kukatla, aka Ric Kukatla)
 [
 legal
 open legal
@@ -500,6 +500,7 @@ lemon english
 American english
 Israeli english
 South african english
+China english
 Mexican english
 Norway english
 Sweden english
