@@ -3,6 +3,10 @@
 
 Pecking order
 [
+Extra new and prime
+pal-n-tire
+
+
 New and prime
 e-bay
 Face-book
@@ -23,6 +27,12 @@ c-is-co
 Old and subprime
 micro-soft
 3-co-m
+]
+
+
+Short short position on extra prime
+[
+Palantir
 ]
 
 
