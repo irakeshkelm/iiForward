@@ -25,8 +25,8 @@ Keep re-recording in
 [
 original
 Operatic
+Swiss
 English
-Swedish
 Finnish
 ]
 
@@ -48,9 +48,13 @@ Chilean Spanish
 
 
 Independent interest and Militia
+Smart communication
+Internet (aka Trailer net)
 git : aka fool
 p2p : git rakeshkelm
 web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
 web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
+Smart location
+America (aka Trailer park)
 location : USA - Banana republicans (aka United slaves, aka Romani)
 USA = United slave america
