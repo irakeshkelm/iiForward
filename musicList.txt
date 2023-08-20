@@ -25,8 +25,8 @@ Keep re-recording in
 [
 original
 Operatic
-Swiss
 English
+Swiss
 Finnish
 ]
 
@@ -34,7 +34,7 @@ Finnish
 Keep re-recording in
 [
 Brazilian Portuguese
-Paraguayan Spanish and Portuguese
+Paraguayan Spanish Portuguese
 Uruguayan Spanish and Portuguese
 Argentinian Spanish
 Chilean Spanish
