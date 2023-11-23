@@ -1,13 +1,46 @@
-﻿Secondary Worklist - Royalists
+﻿Secondary Worklist
 
 
-Independent interest and Militia
+112323
+Chromium forks (aka web book) with integrated web file manager (de minimis) and/or web content (audio, video) manager
+
+
+111323
+Integrate translation's into browser's.
+Allow to choose translation engine like search engine.
+
+
+101122
+Risc 5 TV dev board with working android TV os or working Google TV os
+
+
+101022
+Risc 5 dev board with ChromeOS and working Linux desktop apps or chromium os with working Linux desktop apps
+
+
+100922
+Chrome os with working Linux desktop apps or chromium os with working Linux desktop apps
+
+
+
+
+
+
+
+
+-----Open copyright-----
+Independent interest and Militia (aka Independently joint aka Independent and Professional)
+-----Smart status
+Unlucky (aka bastard)
+Single and Available
+-----Smart communication
+Internet (aka Trailer net)
 git : aka fool
 p2p : git rakeshkelm
-web : github.usa.saudiroyalist/rakeshkelm
-
-
-Always
-[
-Sit idle
-]
+web : github.usa.saudiroyalist/irakeshkelm/iirakeshkukatla
+web : github.usa.saudiroyalist/rakeshkelm/ideasonthemove
+-----Smart location
+America (aka Trailer park)
+Address : 7 Elm Street, Exurban New York-Binghamton, Kingdom of NY 13905
+location : USA - Banana republican's (aka United whore's, aka Romani)
+USA = United slave america
