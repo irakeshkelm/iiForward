@@ -8,6 +8,8 @@ Volunteer organization - service to individuals (aka capitalist)
 volunteer organization (aka capitalist)
 [
 high standard:
+owned by volunteer owner
+run by volunteers only
 service to individuals
 pass through organization
 self service (aka open, nada conditions)
@@ -20,6 +22,8 @@ tax exempt status
 nada volunteer organization (aka funds aka hot girls)
 [
 other: nada high standard (any of the following)
+nada volunteer owner
+nada run by volunteers only
 nada pass through
 nada self service (aka closed, yada conditions)
 nada daily, nada multiple times a day
@@ -39,7 +43,7 @@ example, foodbanks - community owned/affiliated
 
 atom fund : charity currency (aka socialist aka them beautiful hot girls)
 service to the lord
-eample, charities- religious organization owned/affiliated
+eample, charities - religious organization owned/affiliated
 
 
 atom fund : social (aka kitten) currency (aka royalist them ugly kitten hot girls)
@@ -121,4 +125,4 @@ earth : homestead - seven elm street, exurban new york-binghamton, one three nin
 soveriegn state : kingdom of new york
 -- Earth appliance (aka Trailer park)
 homestead : cottage
-sovereign persons : banana republicans (united whores, romani).
+sovereign people : banana republicans (united whores, romani).
