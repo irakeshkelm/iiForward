@@ -16,6 +16,8 @@ lose, you suck - open
 
 
 ghetto = red ghetto
+smooth = clearing (aka De Lot technical language)
+De Lot = De-loit-te (aka deloitte.com)
 ]
 
 
