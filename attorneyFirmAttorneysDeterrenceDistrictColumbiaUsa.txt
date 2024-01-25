@@ -14,7 +14,7 @@ nada create deterrence, yada coup side - worker ghetto
 ]
 
 
-example
+example - current
 [
 Patrick Fitzgerald's prosecution and imprisonment of Rod Blagojevich.
 nada create deterrence, yada coup side - worker ghetto
@@ -24,6 +24,20 @@ yada whore for eternity.
 Rod Blagojevich, Governor, Illinois, Usa
 Patrick Fitzgerald, US attorney, Illinois, Usa
 Patrick Fitzgerald, Special Prosecutor, DC, Usa
+]
+
+
+example - past
+[
+Deep throat reporting and resignation of Richard Nixon.
+nada create deterrence, yada coup side - worker ghetto
+yada whore for eternity.
+
+
+Richard Nixon, 37th President, Usa
+Deep Throat, Informant, DC, Usa
+Bob Woodward, Reporter, Washington Post, DC, Usa
+Carl Bernstein, Reporter, Washington Post, DC, Usa
 ]
 
 
