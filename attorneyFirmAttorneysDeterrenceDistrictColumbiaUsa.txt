@@ -23,6 +23,9 @@ yada independent side - owning new land
 example - current - Rakesh Kukatla-Sittrue
 example - current - Planetarian males
 example - past - Rakesh Kukatla
+
+
+owner : Rakesh Kukatla-Sittrue, Rakesh Kukatla
 ]
 
 
@@ -36,6 +39,11 @@ yada whore for eternity.
 Rod Blagojevich, Governor, Illinois, Usa
 Patrick Fitzgerald, US attorney, Illinois, Usa
 Patrick Fitzgerald, Special Prosecutor, DC, Usa
+
+
+alexa owner : Rod Blagojevich
+alexa worker : Patrick Fitzgerald
+alexa = a-le-x-a = a le-x a
 ]
 
 
@@ -50,6 +58,11 @@ Richard Nixon, 37th President, Usa
 Deep Throat, Informant, DC, Usa
 Bob Woodward, Reporter, Washington Post, DC, Usa
 Carl Bernstein, Reporter, Washington Post, DC, Usa
+
+
+alexa owner : Bob Woodward, Carl Bernstein
+alexa worker : Richard Nixon
+alexa = a-le-x-a = a le-x a
 ]
 
 
